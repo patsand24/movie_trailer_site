@@ -19,6 +19,8 @@ main_page_head = '''
     <style type="text/css" media="screen">
         body {
             padding-top: 80px;
+            background: url("https://vicsmovieden.files.wordpress.com/2015/01/movie-reel-in-blue-light.jpg") no-repeat center top;
+            background-size: cover;
         }
         #trailer .modal-dialog {
             margin-top: 200px;
@@ -40,7 +42,7 @@ main_page_head = '''
             padding-top: 20px;
         }
         .movie-tile:hover {
-            background-color: #EEE;
+            background-color: #ccc;
             cursor: pointer;
         }
         .scale-media {
